@@ -1,6 +1,6 @@
 # Math1-Analyse
 
-Ce dépôt contient les supports pédagogiques du module Mathématiques 1 - Analyse pour les étudiants de la première année licence en sciences de gestion- IHEC Sousse, Tunisie.
+Ce dépôt contient les supports pédagogiques du module Mathématiques 1 - Analyse pour les étudiants de la première année licence en sciences de gestion et sciences économiques - IHEC Sousse, Tunisie.
 
 **Chapitre 1:** [Généralités dur les fonctions](https://github.com/Hamrita/Math1-Analyse/blob/main/Chap1_Limites_Continuit%C3%A9/Chap1.pdf) ([Fiche](https://github.com/Hamrita/Math1-Analyse/blob/main/Limites_Equivalents/Limites_Equivalents.pdf))
 
