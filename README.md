@@ -21,7 +21,7 @@ Ce dépôt contient les supports pédagogiques du module Mathématiques 1 - Anal
 **DS 2024** ([Enoncé](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/DS2024.pdf)) ([Corrigé](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Corr_DS_2024.pdf))
 
 
-**Principale 2026** ([Enoncé](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Principale2026.pdf))  ([Corrigé]())
+**Principale 2026** ([Enoncé](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Principale2026.pdf))  ([Corrigé](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/corrig%C3%A9_p26.pdf))
 
 
 **Rattrapage 2026** ([Enoncé](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Rattrapage2026.pdf))  ([Corrigé]())
