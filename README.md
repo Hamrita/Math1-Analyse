@@ -15,3 +15,7 @@ Ce dépôt contient les supports pédagogiques du module Mathématiques 1 - Anal
 **Chapitre 6:** Fonctions à deux variables ([Limites et continuité](https://github.com/Hamrita/Math1-Analyse/blob/main/Chap6_FonctionsPlusieursVariables/Chap5.pdf)) ([Optimisation](https://github.com/Hamrita/Math1-Analyse/blob/main/Chap6_FonctionsPlusieursVariables/chap5_2.pdf)) ([Série 1](https://github.com/Hamrita/Math1-Analyse/blob/main/Chap6_FonctionsPlusieursVariables/Exercices_Corrig%C3%A9s1.pdf)) ([Série 2](https://github.com/Hamrita/Math1-Analyse/blob/main/Chap6_FonctionsPlusieursVariables/ExChap5_2_sol.pdf))
 
 
+**Examens**
+
+[Principale 2023]()
+[Principale 2021]()                     [Rattrapage 2021]()
