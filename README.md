@@ -17,5 +17,5 @@ Ce dépôt contient les supports pédagogiques du module Mathématiques 1 - Anal
 
 **Examens**
 
-[Principale 2023]()
-[Principale 2021]()                     [Rattrapage 2021]()
+[Principale 2023](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Principale2023.pdf)
+[Principale 2021](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Principale2021.pdf)                     [Rattrapage 2021](https://github.com/Hamrita/Math1-Analyse/blob/main/Examens/Rattrapage2021.pdf)
